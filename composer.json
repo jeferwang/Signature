@@ -1,0 +1,21 @@
+{
+    "name": "jeferwang/signature",
+    "description": "Signature for api access validate",
+    "type": "library",
+    "require": {
+        "php": "5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jeferwang",
+            "email": "jeferwang@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Signature\\": "src/"
+        }
+    }
+}
