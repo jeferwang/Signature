@@ -3,6 +3,7 @@
     "description": "Signature for api access validate",
     "type": "library",
     "require": {
+        "php": ">=5.6.1"
     },
     "license": "MIT",
     "authors": [
